@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    height: 100vh;
+    width: 100vw;
+    color: aliceblue;
+    background-color: #10121bf5;
+}
+.nav-bar >img{
+    border-radius: 30px;
+}
+h1{
+    font-size: 40px;
+    color: #6541b9;
+}
+/* front left */
+.front{
+    background-color: #313139;
+    width: 200px;
+    height: 100vh;
+}
+.nav{
+    position: relative;
+
+}
+.p0{
+position: absolute;
+font-size: 20px;
+top: 20px;
+left: 65px;
+}
+.nav-link:hover{
+    color: #ffffff;
+}
+.nav-bar{
+    padding: 5px;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    border-bottom:  5px solid  #10121bf5 ;
+}
+.left{
+    float: left;
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(181, 185, 189);
+}
+.cl0{
+   height: 8px;
+   width: 8px;
+   background-color: #c34a68;
+   border-radius: 20px;
+   position: absolute;
+   top: 8px;
+   left: 70px;
+}
+.cl1{
+    height: 8px;
+    width: 8px;
+    background-color: #53d355;
+    border-radius: 20px;
+    position: absolute;
+    top: 8px;
+    left: 85px;
+}
+.pwcolor{
+    color: #ffffff;
+    height: 50px;
+    background-color: #389fdf;
+}
+.forh1{
+    position: relative;
+    top: 30px;
+    height: 100px;
+    margin-left: 1000px;
+}
+.forp1{
+    padding-left: 250px;
+}
+.forimg{
+    margin-top: 20px;
+    margin-left: 575px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
